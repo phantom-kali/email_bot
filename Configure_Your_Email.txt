@@ -1,0 +1,5 @@
+Go to 'Manage your Google Account'
+Go to 'Security'
+Scoll down to 'Less secure app access'
+Click on 'Turn on access(not recommended)'
+Turn on 'Allow less secure apps'
